@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ghioca Alexandru</h1>
-<h3 align="center">an aspiring frontend developer</h3>
+<h3 align="center">an aspiring web developer</h3>
 
 - 🔭 I’m currently working on **cv-project**
 
